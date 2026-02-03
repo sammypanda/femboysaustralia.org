@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<svg version="1.1" viewBox="0 0 16 16" width="32" height="32" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
-<rect x="2" y="0" width="12" height="2" fill="#FFFFFF" />
-<rect x="1" y="1" width="1" height="14" fill="#FFFFFF" />
-<rect x="14" y="1" width="1" height="14" fill="#FFFFFF" />
-<rect x="0" y="2" width="1" height="12" fill="#FFFFFF" />
-<rect x="2" y="2" width="1" height="1" fill="#FFFFFF" />
-<rect x="13" y="2" width="1" height="1" fill="#FFFFFF" />
-<rect x="15" y="2" width="1" height="12" fill="#FFFFFF" />
-<rect x="11" y="3" width="2" height="2" fill="#FFFFFF" />
-<rect x="6" y="5" width="4" height="2" fill="#FFFFFF" />
-<rect x="5" y="6" width="1" height="4" fill="#FFFFFF" />
-<rect x="10" y="6" width="1" height="4" fill="#FFFFFF" />
-<rect x="6" y="7" width="1" height="4" fill="#FFFFFF" />
-<rect x="9" y="7" width="1" height="4" fill="#FFFFFF" />
-<rect x="7" y="9" width="2" height="2" fill="#FFFFFF" />
-<rect x="2" y="13" width="1" height="3" fill="#FFFFFF" />
-<rect x="13" y="13" width="1" height="3" fill="#FFFFFF" />
-<rect x="3" y="14" width="10" height="2" fill="#FFFFFF" />
+<svg version="1.1" viewBox="0 0 5120 5120" width="5120" height="5120" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+<rect x="640" y="0" width="3840" height="640" fill="#FFFFFF" />
+<rect x="320" y="320" width="320" height="4480" fill="#FFFFFF" />
+<rect x="4480" y="320" width="320" height="4480" fill="#FFFFFF" />
+<rect x="0" y="640" width="320" height="3840" fill="#FFFFFF" />
+<rect x="640" y="640" width="320" height="320" fill="#FFFFFF" />
+<rect x="4160" y="640" width="320" height="320" fill="#FFFFFF" />
+<rect x="4800" y="640" width="320" height="3840" fill="#FFFFFF" />
+<rect x="3520" y="960" width="640" height="640" fill="#FFFFFF" />
+<rect x="1920" y="1600" width="1280" height="640" fill="#FFFFFF" />
+<rect x="1600" y="1920" width="320" height="1280" fill="#FFFFFF" />
+<rect x="3200" y="1920" width="320" height="1280" fill="#FFFFFF" />
+<rect x="1920" y="2240" width="320" height="1280" fill="#FFFFFF" />
+<rect x="2880" y="2240" width="320" height="1280" fill="#FFFFFF" />
+<rect x="2240" y="2880" width="640" height="640" fill="#FFFFFF" />
+<rect x="640" y="4160" width="320" height="960" fill="#FFFFFF" />
+<rect x="4160" y="4160" width="320" height="960" fill="#FFFFFF" />
+<rect x="960" y="4480" width="3200" height="640" fill="#FFFFFF" />
 </svg>
