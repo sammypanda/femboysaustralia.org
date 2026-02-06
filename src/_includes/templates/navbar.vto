@@ -14,7 +14,7 @@
 
         <div class="quicks">
             {{ for quick of quicks }}
-            <a href="{{quick.url}}">
+            <a href="{{quick.url}}" aria-label="{{quick.label}}">
                 <img src="{{ quick.icon }}" class="icon" inline/>
             </a>
             {{ /for }}
